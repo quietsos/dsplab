@@ -1,7 +1,7 @@
 clc
 clear all
 close all
-x=input('Enter the sequence');
+x=input('Enter the sequence: ');
 n1=input('Enter the time sample range:');
 h=fliplr(x);
 n2=-fliplr(n1);
